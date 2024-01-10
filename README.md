@@ -4,7 +4,9 @@
 
 ## Description
 
-This is a command-line application that dynamically generates a professional README.md file from a user's input using Node.js.
+This is a command-line application that dynamically generates a professional README.md file from a user's input using Node.js
+
+Link to website: https://drive.google.com/file/d/1nQOuWcquWsOKzQE23tJdOleJFGkTmyec/view?usp=drive_link
 
 ## Table of Contents
 
@@ -30,7 +32,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-N/A
+undefined
 
 ## Tests
 
